@@ -29,7 +29,8 @@ Environment: Python 3.x, Jupyter Notebook
 ├── requirements.txt           # Python dependencies
 └── README.md                  # You are here!
 
-'''
+```
+
 
 ⚙️ Setup & Installation
 1. Clone the repo:
