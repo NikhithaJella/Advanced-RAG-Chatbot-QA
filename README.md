@@ -21,6 +21,8 @@ Environment: Python 3.x, Jupyter Notebook
 
 📁 Project Structure
 
+```text
+.
 ├── data/
 │   └── attention.pdf          # The research paper used as context
 ├── retriever_and_chain.ipynb  # Main logic and LangChain implementation
